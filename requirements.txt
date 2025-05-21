@@ -1,0 +1,4 @@
+Pillow
+fpdf
+pdf2docx
+PyMuPDF
